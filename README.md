@@ -6,7 +6,7 @@ Note saver provides you one safe place for all your notes
 
 # Demo
 
-Here is a working live demo : https://mern-note.herokuapp.com/
+Here is a working live demo : https://notesavervk-mern.herokuapp.com/
 
 
 # Site
